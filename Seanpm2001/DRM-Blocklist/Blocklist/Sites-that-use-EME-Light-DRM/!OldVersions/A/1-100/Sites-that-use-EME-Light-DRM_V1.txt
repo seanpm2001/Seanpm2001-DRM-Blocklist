@@ -1,0 +1,15 @@
+# Sites that use EME (Encrypted Media Extensions) (a form of light DRM)
+# Video sharing sites
+0.0.0.0 www.youtube.com/
+0.0.0.0 www.youtubekids.com/
+# VoIP services
+0.0.0.0 discordapp.com/
+0.0.0.0 discord.com/
+# Music sharing sites
+0.0.0.0 bandcamp.com/
+# Other social media sites
+0.0.0.0 www.facebook.com/
+0.0.0.0 www.twitter.com/
+0.0.0.0 www.x.com/
+0.0.0.0 www.instagram.com/
+0.0.0.0 www.reddit.com/

@@ -1,0 +1,11 @@
+# Sites that produce DRM
+# WideVine
+0.0.0.0 widevine.com/
+# Adobe
+0.0.0.0 www.adobe.com/
+# FairPlay
+0.0.0.0 www.apple.com/
+# Valve Anti-Cheat
+0.0.0.0 store.steampowered.com/
+# Denuvo
+0.0.0.0 irdeto.com/
