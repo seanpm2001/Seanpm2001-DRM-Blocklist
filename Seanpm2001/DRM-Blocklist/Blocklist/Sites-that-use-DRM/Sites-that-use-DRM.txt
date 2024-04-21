@@ -1,33 +1,33 @@
 # Sites that use DRM
 # Streaming services
-0.0.0.0 www.netflix.com/
-0.0.0.0 www.disneyplus.com/
-0.0.0.0 www.apps.disneyplus.com/
-0.0.0.0 help.disneyplus.com/
-0.0.0.0 disney.com/
-0.0.0.0 ondisneyplus.disney.com/
-0.0.0.0 www.hulu.com/
-0.0.0.0 help.hulu.com/
-0.0.0.0 tv.youtube.com/
-0.0.0.0 www.max.com/login
-0.0.0.0 auth.max.com/
-0.0.0.0 www.peacocktv.com/
-0.0.0.0 www.espn.com/
-0.0.0.0 plus.espn.com/
-0.0.0.0 www.hbo.com/
-0.0.0.0 movies.youtube.com/
+0.0.0.0 www.netflix.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 www.apps.disneyplus.com
+0.0.0.0 help.disneyplus.com
+0.0.0.0 disney.com
+0.0.0.0 ondisneyplus.disney.com
+0.0.0.0 www.hulu.com
+0.0.0.0 help.hulu.com
+0.0.0.0 tv.youtube.com
+0.0.0.0 www.max.com
+0.0.0.0 auth.max.com
+0.0.0.0 www.peacocktv.com
+0.0.0.0 www.espn.com
+0.0.0.0 plus.espn.com
+0.0.0.0 www.hbo.com
+0.0.0.0 movies.youtube.com
 # Music streaming services
-0.0.0.0 music.youtube.com/
-0.0.0.0 myspace.com/
-0.0.0.0 www.napster.com/
+0.0.0.0 music.youtube.com
+0.0.0.0 myspace.com
+0.0.0.0 www.napster.com
 # Video sharing sites
-0.0.0.0 www.youtube.com/
-0.0.0.0 www.youtubekids.com/
+0.0.0.0 www.youtube.com
+0.0.0.0 www.youtubekids.com
 # Wiki sites
-0.0.0.0 www.fandom.com/
+0.0.0.0 www.fandom.com
 # Digital storefronts
-0.0.0.0 store.steampowered.com/
-0.0.0.0 steamcommunity.com/
-0.0.0.0 www.apple.com/itunes/
+0.0.0.0 store.steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 www.apple.com/itunes
 # Other social media
-0.0.0.0 www.reddit.com/
+0.0.0.0 www.reddit.com
