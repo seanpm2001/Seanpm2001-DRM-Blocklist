@@ -58,150 +58,21 @@ Listing of blocklist files.
 
 ---
 
-> **Sites-that-produce-DRM.txt**
-
-```hosts-file
-# Sites that produce DRM
-# WideVine
-0.0.0.0 widevine.com/
-# Adobe
-0.0.0.0 www.adobe.com/
-# FairPlay
-0.0.0.0 www.apple.com/
-# Valve Anti-Cheat
-0.0.0.0 store.steampowered.com/
-# Denuvo
-0.0.0.0 irdeto.com/
-```
-
-> **Sites-that-use-DRM.txt**
-
-```hosts-file
-# Sites that use DRM
-# Streaming services
-0.0.0.0 www.netflix.com/
-0.0.0.0 www.disneyplus.com/
-0.0.0.0 www.apps.disneyplus.com/
-0.0.0.0 help.disneyplus.com/
-0.0.0.0 disney.com/
-0.0.0.0 ondisneyplus.disney.com/
-0.0.0.0 www.hulu.com/
-0.0.0.0 help.hulu.com/
-0.0.0.0 tv.youtube.com/
-0.0.0.0 www.max.com/login
-0.0.0.0 auth.max.com/
-0.0.0.0 www.peacocktv.com/
-0.0.0.0 www.espn.com/
-0.0.0.0 plus.espn.com/
-0.0.0.0 www.hbo.com/
-0.0.0.0 movies.youtube.com/
-# Music streaming services
-0.0.0.0 music.youtube.com/
-0.0.0.0 myspace.com/
-0.0.0.0 www.napster.com/
-# Video sharing sites
-0.0.0.0 www.youtube.com/
-0.0.0.0 www.youtubekids.com/
-# Wiki sites
-0.0.0.0 www.fandom.com/
-# Digital storefronts
-0.0.0.0 store.steampowered.com/
-0.0.0.0 steamcommunity.com/
-0.0.0.0 www.apple.com/itunes/
-# Other social media
-0.0.0.0 www.reddit.com/
-```
-
-> **Sites-that-use-EME-light-DRM.txt**
-
-```hosts-file
-# Sites that use EME (Encrypted Media Extensions) (a form of light DRM)
-# Video sharing sites
-0.0.0.0 www.youtube.com/
-0.0.0.0 www.youtubekids.com/
-# VoIP services
-0.0.0.0 discordapp.com/
-0.0.0.0 discord.com/
-# Music sharing sites
-0.0.0.0 bandcamp.com/
-# Other social media sites
-0.0.0.0 www.facebook.com/
-0.0.0.0 www.twitter.com/
-0.0.0.0 www.x.com/
-0.0.0.0 www.instagram.com/
-0.0.0.0 www.reddit.com/
-
-```
-
-> **Sites-that-used-to-use-EME.txt**
-
-```hosts-file
-# Sites that used to use EME (Encrypted Media Extensions) (a form of light DRM)
-# Currently empty
-```
-
-> **Sites-that-used-to-use-DRM.txt**
-
-```hosts-file
-# Sites that used to use DRM
-# Currently empty
-```
-
-> **Sites-that-used-to-produce-DRM.txt**
-
-```hosts-file
-# Sites that used to produce DRM
-# Currently empty
-```
-
-> **Sites-that-promote-DRM.txt**
-
-```hosts-file
-# Sites that promote DRM
-# Record labels
-0.0.0.0 www.riaa.com/
-# Film studios
-0.0.0.0 www.motionpictures.org/
-# Journalism
-0.0.0.0 www.digitalguardian.com/
-0.0.0.0 www.businessinsider.com/
-0.0.0.0 www.digitaltrends.com/
-# Blogs
-0.0.0.0 www.howtogeek.com/
-0.0.0.0 www.g2.com/
-# Uncategorized
-0.0.0.0 business.adobe.com/blog/basics/digital-rights-management
-```
-
-> **Sites-that-used-to-promote-DRM.txt**
-
-```hosts-file
-# Sites that used to promote DRM
-# Currently empty
-```
-
-> **DO-NOT-BLOCK_Sites-that-stand-against-DRM.txt**
-
-```hosts-file
-# [DO NOT BLOCK] Sites that stand against DRM
-# Free Software Foundation
-0.0.0.0 www.gnu.org/
-0.0.0.0 defectivebydesign.org/
-0.0.0.0 fsfe.org
-0.0.0.0 www.fsf.org//
-# Electronic Frontiers Foundation
-0.0.0.0 www.eff.org/
-```
-
-> **Sites-that-used-to-stand-against-DRM.txt**
-
-```hosts-file
-# Sites that used to stand against DRM
-# Before being occupied by another company
-0.0.0.0 www.napster.com/
-```
+Individual source code was removed from this README on 2024 April 21st. It can now be viewed only in the 10 blocklists listed above.
 
 </details> <!-- End of files/lists section !-->
+
+***
+
+### Major updates
+
+<details open><summary><p><b>Click/tap here to expand/collapse the subcategories section</b></p></summary>
+
+- 2024.04.17 - First draft created
+- 2024.04.20 - Project published
+- 2024.04.21 - All trailing backslashes removed from Host Files, all lists are now functional. Thanks to [:octocat: `Iam-Py-test`](https://github.com/iam-py-test) for helping out and being the first external contributor to the project.
+
+</details> <!-- End of major updates section !-->
 
 ***
 
@@ -358,7 +229,7 @@ Other projects by me that plan to use this project
 
 <details open><summary><p><b>Click/tap here to expand/collapse the file info section</b></p></summary>
 
-- **File version:** `4 (2024, Saturday, April 20th at 01:53 pm PST)`
+- **File version:** `5 (2024, Sunday, April 21st at 12:50 pm PST)`
 
 </details> <!-- End of file info section !-->
 
@@ -367,6 +238,10 @@ Other projects by me that plan to use this project
 # File history
 
 <details><summary><p><b>Click/tap here to expand/collapse the file history section</b></p></summary>
+
+History of this file.
+
+---
 
 ## Version 1 (2024, Wednesday, April 17th at 9:16 pm PST)
 
@@ -395,6 +270,8 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 
 </details> <!-- End of V1 file history entry !-->
 
+---
+
 ## Version 2 (2024, Thursday, April 18th at 12:21 pm PST)
 
 <details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 2</b></p></summary>
@@ -413,6 +290,8 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 - [x] No other changes in version 2
 
 </details> <!-- End of V2 file history entry !-->
+
+---
 
 ## Version 3 (2024, Friday, April 19th at 06:13 pm PST)
 
@@ -441,6 +320,8 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 
 </details> <!-- End of V3 file history entry !-->
 
+---
+
 ## Version 4 (2024, Saturday, April 20th at 01:53 pm PST)
 
 <details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 4</b></p></summary>
@@ -459,6 +340,25 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 - [x] No other changes in version 4
 
 </details> <!-- End of V4 file history entry !-->
+
+---
+
+## Version 5 (2024, Sunday, April 21st at 12:50 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 4</b></p></summary>
+
+This version was created by [:octocat: @seanpm2001](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Removed source code listing (they are now only viewable in the separate blocklist files
+- [x] Added the `Major note` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for versions 5
+- [x] No other changes in version 5
+
+</details> <!-- End of V5 file history entry !-->
 
 ---
 
