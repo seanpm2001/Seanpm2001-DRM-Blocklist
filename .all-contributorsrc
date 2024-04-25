@@ -22,6 +22,17 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "iam-py-test",
+      "name": "iam-py-test",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84232764?v=4",
+      "profile": "https://iam-py-test.github.io/about.html",
+      "contributions": [
+        "bug",
+        "maintenance",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
