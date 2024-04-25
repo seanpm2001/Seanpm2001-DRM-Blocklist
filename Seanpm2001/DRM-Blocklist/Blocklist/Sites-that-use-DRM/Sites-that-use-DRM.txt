@@ -28,6 +28,7 @@
 # Digital storefronts
 0.0.0.0 store.steampowered.com
 0.0.0.0 steamcommunity.com
-0.0.0.0 www.apple.com/itunes
+# 0.0.0.0 www.apple.com/itunes
+0.0.0.0 www.apple.com
 # Other social media
 0.0.0.0 www.reddit.com
