@@ -33,6 +33,18 @@
         "maintenance",
         "review"
       ]
+    },
+    {
+      "login": "spirillen",
+      "name": "spirillen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44526987?v=4",
+      "profile": "https://kb.mypdns.org/issues/MTX",
+      "contributions": [
+        "bug",
+        "ideas",
+        "maintenance",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
