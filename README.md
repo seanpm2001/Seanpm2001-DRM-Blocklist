@@ -42,7 +42,8 @@ Listing of blocklist files.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the files/lists overview section</b></p></summary>
 
-- **Overview**
+- **Host file lists**
+- - _The original set of blocklists, containing source code comments, and other parameters_
 - 1. [`Sites that produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM.txt)
 - 2. [`Sites that use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-DRM/Sites-that-use-DRM.txt)
 - 3. [`Sites that use EME (Light DRM)`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-EME-Light-DRM/Sites-that-use-EME-Light-DRM.txt)
@@ -53,6 +54,19 @@ Listing of blocklist files.
 - 8. [`Sites that used to promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-promote-DRM/Sites-that-used-to-promote-DRM.txt)
 - 9. [`{DO NOT BLOCK} Sites that stand against DRM`](/Seanpm2001/DRM-Blocklist/Anti-blocklist/DO-NOT-BLOCK_Sites-that-stand-against-DRM.txt)
 - 10. [`Sites that used to stand against DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-stand-against-DRM/Sites-that-used-to-stand-against-DRM.txt)
+- **Clean lists**
+- - _Recommended by_ [:octocat: `Spirillen`](https://github.com/spirillen/) _in_ [`issue #4`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/issues/4/)
+- - _Clean lists are plain text blocklists that don't contain source code comments or other parameters._
+- 1. [`Sites that produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM_CleanList.txt)
+- 2. [`Sites that use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-DRM/Sites-that-use-DRM_CleanList.txt)
+- 3. [`Sites that use EME (Light DRM)`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-EME-Light-DRM/Sites-that-use-EME-Light-DRM_CleanList.txt)
+- 4. [`Sites that used to use EME`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-use-EME-Light-DRM/Sites-that-used-to-use-EME-Light-DRM_CleanList.txt)
+- 5. [`Sites that used to use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-use-DRM/Sites-that-used-to-use-DRM_CleanList.txt)
+- 6. [`Sites that used to produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-produce-DRM/Sites-that-used-to-produce-DRM_CleanList.txt)
+- 7. [`Sites that promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-promote-DRM/Sites-that-promote-DRM_CleanList.txt)
+- 8. [`Sites that used to promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-promote-DRM/Sites-that-used-to-promote-DRM_CleanList.txt)
+- 9. [`{DO NOT BLOCK} Sites that stand against DRM`](/Seanpm2001/DRM-Blocklist/Anti-blocklist/DO-NOT-BLOCK_Sites-that-stand-against-DRM_CleanList.txt)
+- 10. [`Sites that used to stand against DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-stand-against-DRM/Sites-that-used-to-stand-against-DRM_CleanList.txt)
 
 </details> <!-- End of files/lists overview section !-->
 
@@ -71,6 +85,7 @@ Individual source code was removed from this README on 2024 April 21st. It can n
 - 2024.04.17 - First draft created
 - 2024.04.20 - Project published
 - 2024.04.21 - All trailing backslashes removed from Host Files, all lists are now functional. Thanks to [:octocat: `Iam-Py-test`](https://github.com/iam-py-test) for helping out and being the first external contributor to the project.
+- 2024.04.25 - I came back to the project today to find 2 new issues from 3 days ago. I fixed 1 of them (a syntax error) while I am in the process of fixing the second one (regarding Clean Lists) this update introduces clean list variants of all 10 blocklists. Thanks to [:octocat: `Spirillen`](https://github.com/spirillen/) for the bug report, and the suggestions.
 
 </details> <!-- End of major updates section !-->
 
@@ -100,6 +115,61 @@ Individual source code was removed from this README on 2024 April 21st. It can n
 - [ ] Sort A-Z
 
 </details> <!-- End of subcategories section !-->
+
+***
+
+## Documentation
+
+<details open><summary><p><b>Click/tap here to expand/collapse the documentation section</b></p></summary>
+
+**For Linux/BSD users**
+
+```shell
+man hosts
+```
+
+[:octocat: `Separate documentation repository`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist_Docs/)
+
+</details> <!-- End of Documentation section !-->
+
+***
+
+## Installation
+
+<details open><summary><p><b>Click/tap here to expand/collapse the installation section</b></p></summary>
+
+- [`INSTALL`](/INSTALL) - Outdated file
+- [`INSTALL.rst`](/INSTALL.rst) - Outdated file
+
+I am very new to blocklists. I currently don't have installation instructions, as I have yet to install it on one of my Linux systems.
+
+</details> <!-- End of Installation section !-->
+
+***
+
+## Credits
+
+<details open><summary><p><b>Click/tap here to expand/collapse the credits section</b></p></summary>
+
+**Not to be confused with Authors.**
+
+- [`CREDITS`](/CREDITS) - Outdated file
+- [`CREDITS.wiki`](/CREDITS.wiki) - Outdated file
+
+</details> <!-- End of Ccredits section !-->
+
+***
+
+## Authors
+
+<details open><summary><p><b>Click/tap here to expand/collapse the authors section</b></p></summary>
+
+**Not to be confused with Credits.**
+
+- [`AUTHORS`](/AUTHORS) - Outdated file
+- [`AUTHORS.md`](/AUTHORS.md) - Outdated file
+
+</details> <!-- End of Authors section !-->
 
 ***
 
@@ -229,7 +299,7 @@ Other projects by me that plan to use this project
 
 <details open><summary><p><b>Click/tap here to expand/collapse the file info section</b></p></summary>
 
-- **File version:** `5 (2024, Sunday, April 21st at 12:50 pm PST)`
+- **File version:** `6 (2024, Thursday, April 25th at 03:16 pm PST)`
 
 </details> <!-- End of file info section !-->
 
@@ -345,20 +415,43 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 
 ## Version 5 (2024, Sunday, April 21st at 12:50 pm PST)
 
-<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 4</b></p></summary>
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 5</b></p></summary>
 
 This version was created by [:octocat: @seanpm2001](https://github.com/seanpm2001/)
 
 > Changes
 
 - [x] Removed source code listing (they are now only viewable in the separate blocklist files
-- [x] Added the `Major note` section
+- [x] Added the `Major updates` section
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
 - - [x] Added an entry for versions 5
 - [x] No other changes in version 5
 
 </details> <!-- End of V5 file history entry !-->
+
+---
+
+## Version 6 (2024, Thursday, April 25th at 03:16 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 6</b></p></summary>
+
+This version was created by [:octocat: @seanpm2001](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Added clean list links to the blocklist listing
+- [x] Updated the `Major updates` section
+- [x] Added the `Documentation` section
+- [x] Added the `Installation` section
+- [x] Added the `Credits` section
+- [x] Added the `Authors` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for versions 6
+- [x] No other changes in version 6
+
+</details> <!-- End of V6 file history entry !-->
 
 ---
 
