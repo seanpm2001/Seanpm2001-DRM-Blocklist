@@ -1,4 +1,7 @@
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
 <details open><summary><p><b>Click/tap here to expand/collapse the entire document</b></p></summary>
@@ -299,7 +302,7 @@ Other projects by me that plan to use this project
 
 <details open><summary><p><b>Click/tap here to expand/collapse the file info section</b></p></summary>
 
-- **File version:** `6 (2024, Thursday, April 25th at 03:16 pm PST)`
+- **File version:** `10 (2024, Thursday, April 25th at 03:45 pm PST)`
 
 </details> <!-- End of file info section !-->
 
@@ -455,6 +458,69 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 
 ---
 
+## Version 7 (2024, Thursday, April 25th at 03:27 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 7</b></p></summary>
+
+This version was created by [:octocat: @all-contributors](https://github.com/all-contributors/)
+
+> Changes
+
+- [x] Added all-contributor formatting
+- [x] Added @seanpm2001 as a contributor
+- [ ] No other changes in version 7
+
+</details> <!-- End of V7 file history entry !-->
+
+---
+
+## Version 8 (2024, Thursday, April 25th at 03:31 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 8</b></p></summary>
+
+This version was created by [:octocat: @all-contributors](https://github.com/all-contributors/)
+
+> Changes
+
+- [x] Added @iam-py-test as a contributor
+- [ ] No other changes in version 8
+
+</details> <!-- End of V8 file history entry !-->
+
+---
+
+## Version 9 (2024, Thursday, April 25th at 03:33 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 9</b></p></summary>
+
+This version was created by [:octocat: @all-contributors](https://github.com/all-contributors/)
+
+> Changes
+
+- [x] Added @spirillen as a contributor
+- [ ] No other changes in version 9
+
+</details> <!-- End of V9 file history entry !-->
+
+---
+
+## Version 10 (2024, Thursday, April 25th at 03:45 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 10</b></p></summary>
+
+This version was created by [:octocat: @seanpm2001](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added entries for versions 7, 8, 9, and 10
+- [x] No other changes in version 10
+
+</details> <!-- End of V10 file history entry !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history section !-->
@@ -474,3 +540,27 @@ You have reached the end of this file.
 </details> <!-- End of file !-->
 
 ***
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3"><img src="https://avatars.githubusercontent.com/u/65933340?v=4?s=100" width="100px;" alt="Sean P. Myrick V19.1.7.2"/><br /><sub><b>Sean P. Myrick V19.1.7.2</b></sub></a><br /><a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/commits?author=seanpm2001" title="Code">💻</a> <a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/commits?author=seanpm2001" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001" title="Project Management">📆</a> <a href="#data-seanpm2001" title="Data">🔣</a> <a href="#content-seanpm2001" title="Content">🖋</a> <a href="#design-seanpm2001" title="Design">🎨</a> <a href="#maintenance-seanpm2001" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://iam-py-test.github.io/about.html"><img src="https://avatars.githubusercontent.com/u/84232764?v=4?s=100" width="100px;" alt="iam-py-test"/><br /><sub><b>iam-py-test</b></sub></a><br /><a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/issues?q=author%3Aiam-py-test" title="Bug reports">🐛</a> <a href="#maintenance-iam-py-test" title="Maintenance">🚧</a> <a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/pulls?q=is%3Apr+reviewed-by%3Aiam-py-test" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://kb.mypdns.org/issues/MTX"><img src="https://avatars.githubusercontent.com/u/44526987?v=4?s=100" width="100px;" alt="spirillen"/><br /><sub><b>spirillen</b></sub></a><br /><a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/issues?q=author%3Aspirillen" title="Bug reports">🐛</a> <a href="#ideas-spirillen" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-spirillen" title="Maintenance">🚧</a> <a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/pulls?q=is%3Apr+reviewed-by%3Aspirillen" title="Reviewed Pull Requests">👀</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
