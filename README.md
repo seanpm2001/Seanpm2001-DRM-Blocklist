@@ -302,7 +302,7 @@ Other projects by me that plan to use this project
 
 <details open><summary><p><b>Click/tap here to expand/collapse the file info section</b></p></summary>
 
-- **File version:** `6 (2024, Thursday, April 25th at 03:16 pm PST)`
+- **File version:** `10 (2024, Thursday, April 25th at 03:45 pm PST)`
 
 </details> <!-- End of file info section !-->
 
@@ -455,6 +455,69 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 - [x] No other changes in version 6
 
 </details> <!-- End of V6 file history entry !-->
+
+---
+
+## Version 7 (2024, Thursday, April 25th at 03:27 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 7</b></p></summary>
+
+This version was created by [:octocat: @all-contributors](https://github.com/all-contributors/)
+
+> Changes
+
+- [x] Added all-contributor formatting
+- [x] Added @seanpm2001 as a contributor
+- [ ] No other changes in version 7
+
+</details> <!-- End of V7 file history entry !-->
+
+---
+
+## Version 8 (2024, Thursday, April 25th at 03:31 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 8</b></p></summary>
+
+This version was created by [:octocat: @all-contributors](https://github.com/all-contributors/)
+
+> Changes
+
+- [x] Added @iam-py-test as a contributor
+- [ ] No other changes in version 8
+
+</details> <!-- End of V8 file history entry !-->
+
+---
+
+## Version 9 (2024, Thursday, April 25th at 03:33 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 9</b></p></summary>
+
+This version was created by [:octocat: @all-contributors](https://github.com/all-contributors/)
+
+> Changes
+
+- [x] Added @spirillen as a contributor
+- [ ] No other changes in version 9
+
+</details> <!-- End of V9 file history entry !-->
+
+---
+
+## Version 10 (2024, Thursday, April 25th at 03:45 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 10</b></p></summary>
+
+This version was created by [:octocat: @seanpm2001](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added entries for versions 7, 8, 9, and 10
+- [x] No other changes in version 10
+
+</details> <!-- End of V10 file history entry !-->
 
 ---
 
