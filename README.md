@@ -302,7 +302,7 @@ Other projects by me that plan to use this project
 
 <details open><summary><p><b>Click/tap here to expand/collapse the file info section</b></p></summary>
 
-- **File version:** `10 (2024, Thursday, April 25th at 03:45 pm PST)`
+- **File version:** `12 (2024, Thursday, April 25th at 06:25 pm PST)`
 
 </details> <!-- End of file info section !-->
 
@@ -521,6 +521,40 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 
 ---
 
+## Version 11 (2024, Thursday, April 25th at 06:15 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 11</b></p></summary>
+
+This version was created by [:octocat: @all-contributors](https://github.com/all-contributors/)
+
+> Changes
+
+- [x] Added @all-contributors as a contributor
+- [ ] No other changes in version 11
+
+</details> <!-- End of V11 file history entry !-->
+
+---
+
+## Version 12 (2024, Thursday, April 25th at 06:25 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 12</b></p></summary>
+
+This version was created by [:octocat: @seanpm2001](https://github.com/seanpm2001/)
+
+> **Note** _I initially forgot to add `@all-contributors` as a contributor before making the last release._
+
+> Changes
+
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added entries for versions 11, and 12
+- [x] No other changes in version 12
+
+</details> <!-- End of V12 file history entry !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history section !-->
@@ -564,4 +598,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [:octocat: `all-contributors`](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+***
