@@ -1,0 +1,2 @@
+# Sites that used to use EME (Encrypted Media Extensions) (a form of light DRM)
+# Currently empty
