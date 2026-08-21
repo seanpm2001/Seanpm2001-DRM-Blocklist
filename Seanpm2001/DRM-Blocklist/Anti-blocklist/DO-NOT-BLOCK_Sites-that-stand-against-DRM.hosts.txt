@@ -1,0 +1,8 @@
+# [DO NOT BLOCK] Sites that stand against DRM
+# Free Software Foundation
+0.0.0.0 www.gnu.org
+0.0.0.0 defectivebydesign.org
+0.0.0.0 fsfe.org
+0.0.0.0 www.fsf.org
+# Electronic Frontiers Foundation
+0.0.0.0 www.eff.org

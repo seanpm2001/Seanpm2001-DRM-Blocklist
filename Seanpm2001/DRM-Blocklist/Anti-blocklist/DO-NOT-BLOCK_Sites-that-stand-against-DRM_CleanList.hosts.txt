@@ -1,0 +1,5 @@
+www.gnu.org
+defectivebydesign.org
+fsfe.org
+www.fsf.org
+www.eff.org
