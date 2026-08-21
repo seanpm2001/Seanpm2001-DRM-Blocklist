@@ -33,9 +33,16 @@
 *.css linguist-documentation=false
 *.css linguist-language=CSS
 # Hosts file
+*.hosts.txt linguist-detectable=true
+*.hosts.txt linguist-documentation=false
+*.hosts.txt linguist-language=Hosts-file
+# Adblock Filter List source file
+# Created separate versions for host files, to differentiate between the new Adblock Filter List versions
+# The original file names were not changed, new files were added with the correct name.
+# This was done to prevent breaking things, and creating link rot.
 *.txt linguist-detectable=true
 *.txt linguist-documentation=false
-*.txt linguist-language=Hosts-file
+*.txt linguist-language=Adblock-Filter-List
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -171,7 +178,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Saturday, April 20th at 01:30 pm PST)
-# Line count (including blank lines and compiler line): 178
+# File version: 6 (2026, Thursday, August 20th at 06:10 pm PST)
+# Line count (including blank lines and compiler line): 185
 
 # End of script
