@@ -1,0 +1,3 @@
+# Sites that used to stand against DRM
+# Before being occupied by another company
+0.0.0.0 www.napster.com
