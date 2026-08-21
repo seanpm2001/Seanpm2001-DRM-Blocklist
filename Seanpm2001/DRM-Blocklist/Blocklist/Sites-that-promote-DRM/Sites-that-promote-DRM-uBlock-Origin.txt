@@ -1,0 +1,14 @@
+! Sites that promote DRM
+! Record labels
+https://www.riaa.com
+! Film studios
+https://www.motionpictures.org
+! Journalism
+https://www.digitalguardian.com
+https://www.businessinsider.com
+https://www.digitaltrends.com
+! Blogs
+https://www.howtogeek.com
+https://www.g2.com
+! Uncategorized
+https://business.adobe.com
