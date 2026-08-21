@@ -8,6 +8,8 @@
 
 # Seanpm2001 DRM Blocklist
 
+<img src="/Seanpm2001-DRM-Blocklist_1500pxLogo_V1_HighCompression.png" alt="Seanpm2001 DRM Blocklist logo failed to load" title="Logo of the Seanpm2001 DRM Blocklist" width="256" height="256">
+
 <details open><summary><p><b>Click/tap here to expand/collapse the title section</b></p></summary>
 
 `🚫️🔒️📜️ The official source repository for the Seanpm2001 DRM blocklist.`
@@ -17,6 +19,17 @@
 </details> <!-- End of title section !-->
 
 ***
+
+### 2026 Update
+
+I feel that a uBlock Origin version will work well alongside a Hosts file version, as I never got to using Host files, and the Host Files versions are untested. I got into uBlock Origin filters on the night of 2026, August 19th, and decided to revive this project.
+
+The filters that are of importance are:
+
+- 1. [`Sites that produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM-uBlock-Origin.txt)
+- 2. [`Sites that use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-DRM/Sites-that-use-DRM-uBlock-Origin.txt)
+- 3. [`Sites that use EME (Light DRM)`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-EME-Light-DRM/Sites-that-use-EME-Light-DRM-uBlock-Origin.txt)
+- 4. [`Sites that promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-promote-DRM/Sites-that-promote-DRM-uBlock-Origin.txt)
 
 ### Notes
 
@@ -70,6 +83,19 @@ Listing of blocklist files.
 - 8. [`Sites that used to promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-promote-DRM/Sites-that-used-to-promote-DRM_CleanList.txt)
 - 9. [`{DO NOT BLOCK} Sites that stand against DRM`](/Seanpm2001/DRM-Blocklist/Anti-blocklist/DO-NOT-BLOCK_Sites-that-stand-against-DRM_CleanList.txt)
 - 10. [`Sites that used to stand against DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-stand-against-DRM/Sites-that-used-to-stand-against-DRM_CleanList.txt)
+- **uBlock Origin Filter Lists**
+- - _Part of a revival on 2026, August 20th_
+- - _Works with uBlock Origin. Do not use on Google Chrome, Google Chromium, Microsoft Edge, Safari, or Opera (or any major Chromium-based browser that implements Manifest V3, you should boycott them)_
+- 1. [`Sites that produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM-uBlock-Origin.txt)
+- 2. [`Sites that use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-DRM/Sites-that-use-DRM-uBlock-Origin.txt)
+- 3. [`Sites that use EME (Light DRM)`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-EME-Light-DRM/Sites-that-use-EME-Light-DRM-uBlock-Origin.txt)
+- 4. [`Sites that used to use EME`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-use-EME-Light-DRM/Sites-that-used-to-use-EME-Light-DRM-uBlock-Origin.txt)
+- 5. [`Sites that used to use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-use-DRM/Sites-that-used-to-use-DRM-uBlock-Origin.txt)
+- 6. [`Sites that used to produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-produce-DRM/Sites-that-used-to-produce-DRM-uBlock-Origin.txt)
+- 7. [`Sites that promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-promote-DRM/Sites-that-promote-DRM-uBlock-Origin.txt)
+- 8. [`Sites that used to promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-promote-DRM/Sites-that-used-to-promote-DRM-uBlock-Origin.txt)
+- 9. [`{DO NOT BLOCK} Sites that stand against DRM`](/Seanpm2001/DRM-Blocklist/Anti-blocklist/DO-NOT-BLOCK_Sites-that-stand-against-DRM-uBlock-Origin.txt)
+- 10. [`Sites that used to stand against DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-stand-against-DRM/Sites-that-used-to-stand-against-DRM-uBlock-Origin.txt)
 
 </details> <!-- End of files/lists overview section !-->
 
@@ -89,6 +115,7 @@ Individual source code was removed from this README on 2024 April 21st. It can n
 - 2024.04.20 - Project published
 - 2024.04.21 - All trailing backslashes removed from Host Files, all lists are now functional. Thanks to [:octocat: `Iam-Py-test`](https://github.com/iam-py-test) for helping out and being the first external contributor to the project.
 - 2024.04.25 - I came back to the project today to find 2 new issues from 3 days ago. I fixed 1 of them (a syntax error) while I am in the process of fixing the second one (regarding Clean Lists) this update introduces clean list variants of all 10 blocklists. Thanks to [:octocat: `Spirillen`](https://github.com/spirillen/) for the bug report, and the suggestions.
+- 2026.08.20 - I came back to this project, and added support for uBlock Origin, making these blocklists functional.
 
 </details> <!-- End of major updates section !-->
 
@@ -146,6 +173,41 @@ man hosts
 
 I am very new to blocklists. I currently don't have installation instructions, as I have yet to install it on one of my Linux systems.
 
+### uBlock Origin
+
+<details open><summary><p><b>Click/tap here to expand/collapse the uBlock Origin installation section</b></p></summary>
+
+<img src="/Graphics/Logos/uBlock-Origin/SVG/UBlock_Origin.svg" alt="uBlock Origin logo failed to load" title="Logo of uBlock Origin" width="256" height="256">
+
+**Method 1**
+
+- 1. Download uBlock Origin (if you haven't already) [`Firefox addon page`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- 2. Download the filter list
+- 3. Open uBlock Origin
+- 4. Click the gears icon
+- 5. Navigate to `My filters`
+- 6. Click the checkbox "enable custom filters" (if it isn't already checked)
+- 7. Click import and append
+- 8. Select the files
+- 9. Reload any webpage on these lists, or open it up anew to test it out
+
+**Method 2**
+
+- 1. Download uBlock Origin (if you haven't already) [`Firefox addon page`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- 2. Copy the source code for filter list
+- 3. Open uBlock Origin
+- 4. Click the gears icon
+- 5. Navigate to `My filters`
+- 6. Click the checkbox "enable custom filters" (if it isn't already checked)
+- 7. Paste the filter source code into the filter list at the bottom
+- 8. Reload any webpage on these lists, or open it up anew to test it out
+
+</details> <!-- End of uBlock Origin Installation section !-->
+
+---
+
+End of installation instructions.
+
 </details> <!-- End of Installation section !-->
 
 ***
@@ -184,6 +246,44 @@ I am very new to blocklists. I currently don't have installation instructions, a
 - Sites that write articles with a pro-DRM stance
 
 </details> <!-- End of qualifications section !-->
+
+***
+
+## FAQ
+
+<details open><summary><p><b>Click/tap here to expand/collapse the FAQ section</b></p></summary>
+
+Nobody has asked anything yet, so the only entries right now are filler, based on the presumption that it will be asked.
+
+---
+
+### FAQ: How do I prevent DRM from loading in my browser
+
+<details open><summary><p><b>Click/tap here to expand/collapse the FAQ: How do I prevent DRM from loading in my browser section</b></p></summary>
+
+You need a browser that either doesn't support DRM, or makes it optional (such as Firefox) simply don't click "allow" when you see a popup asking to enable DRM. Keep your DRM setting disabled in settings.
+
+Unfortunately, this doesn't work for EME (light DRM) this blocklist will be most helpful for that.
+
+The blocklist will not block DRM directly. It will only block sites that use DRM
+
+</details> <!-- End of FAQ: How do I prevent DRM from loading in my browser section !-->
+
+---
+
+### FAQ: How do I install the Hostfiles blocklist
+
+<details open><summary><p><b>Click/tap here to expand/collapse the FAQ: How do I install the Hostfiles blocklistr section</b></p></summary>
+
+The Hosts file version, as of 2026, August 20th, is not known to be functional. The uBlock Origin option is currently the one being developed, but development of the Hosts List version will resume in the future.
+
+</details> <!-- End of FAQ: How do I install the Hostfiles blocklist section !-->
+
+---
+
+End of Frequently Asked Questions (FAQ)
+
+</details> <!-- End of FAQ section !-->
 
 ***
 
@@ -231,7 +331,7 @@ A type of DRM (light DRM) that was controversially accepted as an Internet stand
 - Does not stand for: `Light Digital Rights Management`
 - Forms: `EME` `DRM`
 
-DRM that tries to prevent users from right clicking/copying a file on a webpage, but isn't as heavy as a DRM scheme like WideVine. This type of DRM typically doesn't have to be asked to be used, and will run from the browser itself (even in Firefox)
+DRM that tries to prevent users from right clicking/copying a file on a webpage, but isn't as heavy as a DRM scheme like WideVine. This type of DRM typically doesn't runs without asking to be used, and will run from the browser itself (even in Firefox)
 
 </details> <!-- End of light DRM definition section !-->
 
@@ -263,7 +363,7 @@ _End of definitions_
 1. Load the website in Firefox (without DRM installed/enabled)
 2. Try right clicking various pieces of media on the page
 3. If the save as option is græyed out or not present, the site likely uses EME
-4. Additionally, if there is a yellow popup by Firefox that says "you must enable DRM to access certain parts of this page" (non-verbatim text) then the site uses DRM and should be added to the DRM list as well.
+4. Additionally, if there is a yellow popup by Firefox that says "you must enable DRM to access certain parts of this page" (non-verbatim text) then the site uses heavy DRM and should be added to the DRM list as well.
 
 </details> <!-- End of testing for presence of light DRM section !-->
 
@@ -302,7 +402,7 @@ Other projects by me that plan to use this project
 
 <details open><summary><p><b>Click/tap here to expand/collapse the file info section</b></p></summary>
 
-- **File version:** `12 (2024, Thursday, April 25th at 06:25 pm PST)`
+- **File version:** `13 (2026, Thursday, August 20th at 05:13 pm PST)`
 
 </details> <!-- End of file info section !-->
 
@@ -546,12 +646,41 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 
 > Changes
 
+
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
 - - [x] Added entries for versions 11, and 12
 - [x] No other changes in version 12
 
 </details> <!-- End of V12 file history entry !-->
+
+---
+
+## Version 13 (2026, Thursday, August 20th at 05:13 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 13</b></p></summary>
+
+This version was created by [:octocat: @seanpm2001](https://github.com/seanpm2001/)
+
+> **Note** _This project has been revived. Support for uBlock Origin has been added_
+
+> Changes
+
+- [x] Added a logo to the top
+- [x] Added the `2026 Update` section
+- [x] Updated the `Files/lists` section
+- [x] Updated the `Installation Instructions` section
+- - [x] Added 2 methods for installing with uBlock Origin
+- [x] Updated the definition for light DRM (syntax fixes)
+- [x] Added the `FAQ` section
+- - [x] Added the `FAQ: How do I prevent DRM from loading in my browser` subsection
+- - [x] Added the `FAQ: How do I install the Hostfiles blocklist` subsection
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 13
+- [x] No other changes in version 13
+
+</details> <!-- End of V13 file history entry !-->
 
 ---
 
