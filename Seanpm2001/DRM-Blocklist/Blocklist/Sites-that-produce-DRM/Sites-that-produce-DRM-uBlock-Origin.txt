@@ -1,3 +1,8 @@
+! Seanpm2001 DRM Blocklist
+! Blocklist: Blocklist: Sites that produce DRM
+! Language: Adblock Filter List
+! Links: 5
+! License: UNLICENSE
 ! Sites that produce DRM
 ! WideVine
 https://widevine.com
