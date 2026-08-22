@@ -1,3 +1,8 @@
+! Seanpm2001 DRM Blocklist
+! Blocklist: Blocklist: Sites that use EME (Light DRM)
+! Language: Adblock Filter List
+! Links: 10
+! License: UNLICENSE
 ! Sites that use EME (Encrypted Media Extensions) (a form of light DRM)
 ! Video sharing sites
 https://www.youtube.com
