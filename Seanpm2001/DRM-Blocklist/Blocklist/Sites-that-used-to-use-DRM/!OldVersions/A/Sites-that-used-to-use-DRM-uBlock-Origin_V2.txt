@@ -1,0 +1,10 @@
+! Seanpm2001 DRM Blocklist
+! Blocklist: Blocklist: Sites that used to use DRM
+! Language: Adblock Filter List
+! Links: 0
+! License: UNLICENSE
+! Sites that used to stand against DRM
+! Before being occupied by another company
+https://www.napster.com
+! Sites that used to use DRM
+! Currently empty
