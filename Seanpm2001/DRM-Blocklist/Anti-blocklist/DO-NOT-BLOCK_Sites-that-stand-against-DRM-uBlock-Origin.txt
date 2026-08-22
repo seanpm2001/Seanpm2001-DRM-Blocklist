@@ -1,5 +1,5 @@
 ! Seanpm2001 DRM Blocklist
-| Blocklist: Anti-blocklist: Sites that stand against DRM
+! Blocklist: Anti-blocklist: Sites that stand against DRM
 ! Language: Adblock Filter List
 ! Links: 5
 ! License: UNLICENSE
