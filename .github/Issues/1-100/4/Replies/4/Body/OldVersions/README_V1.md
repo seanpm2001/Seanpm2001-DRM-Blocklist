@@ -1,0 +1,1 @@
+I was referring to to have some lists that are historical, while other is active. I find it difficult to see which you would like to use as blacklists sources, and which to _not_ include, this said to help consider is you should separate how you store your data sources
