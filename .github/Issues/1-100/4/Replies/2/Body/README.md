@@ -1,0 +1,1 @@
+If you gives me the link to the clean list(s) that should be used for blacklisting, I can keep them tested for active records. The system used to test these are tested on a currently beta program  and is based on https://github.com/funilrys/pyfunceble. I have promised not tell about this as it is in beta, with a unknown horizon for launch.
