@@ -22,6 +22,8 @@
 
 ### 2026 Update
 
+<details open><summary><p><b>Click/tap here to expand/collapse the 2026 Update section</b></p></summary>
+
 I feel that a uBlock Origin version will work well alongside a Hosts file version, as I never got to using Host files, and the Host Files versions are untested. I got into uBlock Origin filters on the night of 2026, August 19th, and decided to revive this project.
 
 The filters that are of importance are:
@@ -30,6 +32,38 @@ The filters that are of importance are:
 - 2. [`Sites that use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-DRM/Sites-that-use-DRM-uBlock-Origin.txt)
 - 3. [`Sites that use EME (Light DRM)`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-EME-Light-DRM/Sites-that-use-EME-Light-DRM-uBlock-Origin.txt)
 - 4. [`Sites that promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-promote-DRM/Sites-that-promote-DRM-uBlock-Origin.txt)
+
+The project was further updated on 2026, August 22nd. Documentation has improved, and the project has been relicensed under the [`UNLICENSE`](/UNLICENSE) Releases are now being made as well, one will be made for each day of change. In the future, releases will be tagged for previous days where the project was updated.
+
+Releases that need to be tagged
+
+- 2024, April 20th (as [`V2024.04.20`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.04.20) )
+- 2024, April 21st (as [`V2024.04.21`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.04.21) )
+- 2024, April 25th (as [`V2024.04.25`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.04.25) )
+- 2024, May 17th (as [`V2024.05.17`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.05.17) )
+
+Releases
+
+- [`V2026.08.20`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.20/)
+- [`V2026.08.22`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.22/)
+
+I unfortunately feel that I revived this project after all of the hype died. I hope the hype can come back, maybe even stronger.
+
+</details>
+
+***
+
+# "AI" Notice
+
+<details open><summary><p><b>Click/tap here to expand/collapse the "AI" Notice and policy section</b></p></summary>
+
+This project does not accept contributions made using any "AI" assistant. Any pull requests or issues involving "AI" will be closed. Users may also be blocked from contributing if violations are severe.
+
+**This project was proudly made entirely without the assistance of “AI”**
+
+</details> <!-- End of "AI" Notice section !-->
+
+***
 
 ### Notes
 
@@ -58,7 +92,10 @@ Listing of blocklist files.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the files/lists overview section</b></p></summary>
 
-- **Host file lists**
+- **Host file lists** (these are being phased out, instead see the version below)
+
+<details><summary><p><b>Click here to show obsolete versions</b></p></summary>
+
 - - _The original set of blocklists, containing source code comments, and other parameters_
 - 1. [`Sites that produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM.txt)
 - 2. [`Sites that use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-DRM/Sites-that-use-DRM.txt)
@@ -70,7 +107,27 @@ Listing of blocklist files.
 - 8. [`Sites that used to promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-promote-DRM/Sites-that-used-to-promote-DRM.txt)
 - 9. [`{DO NOT BLOCK} Sites that stand against DRM`](/Seanpm2001/DRM-Blocklist/Anti-blocklist/DO-NOT-BLOCK_Sites-that-stand-against-DRM.txt)
 - 10. [`Sites that used to stand against DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-stand-against-DRM/Sites-that-used-to-stand-against-DRM.txt)
-- **Clean lists**
+
+</details>
+
+**Host file lists (new)**
+
+- - _The new set of blocklists, containing source code comments, and other parameters_
+- 1. [`Sites that produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM.hosts.txt)
+- 2. [`Sites that use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-DRM/Sites-that-use-DRM.hosts.txt)
+- 3. [`Sites that use EME (Light DRM)`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-EME-Light-DRM/Sites-that-use-EME-Light-DRM.hosts.txt)
+- 4. [`Sites that used to use EME`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-use-EME-Light-DRM/Sites-that-used-to-use-EME-Light-DRM.hosts.txt)
+- 5. [`Sites that used to use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-use-DRM/Sites-that-used-to-use-DRM.hosts.txt)
+- 6. [`Sites that used to produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-produce-DRM/Sites-that-used-to-produce-DRM.hosts.txt)
+- 7. [`Sites that promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-promote-DRM/Sites-that-promote-DRM.hosts.txt)
+- 8. [`Sites that used to promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-promote-DRM/Sites-that-used-to-promote-DRM.hosts.txt)
+- 9. [`{DO NOT BLOCK} Sites that stand against DRM`](/Seanpm2001/DRM-Blocklist/Anti-blocklist/DO-NOT-BLOCK_Sites-that-stand-against-DRM.hosts.txt)
+- 10. [`Sites that used to stand against DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-stand-against-DRM/Sites-that-used-to-stand-against-DRM.hosts.txt)
+
+- **Clean lists** (these are being phased out, instead see the version below)
+
+<details><summary><p><b>Click here to show obsolete versions</b></p></summary>
+
 - - _Recommended by_ [:octocat: `Spirillen`](https://github.com/spirillen/) _in_ [`issue #4`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/issues/4/)
 - - _Clean lists are plain text blocklists that don't contain source code comments or other parameters._
 - 1. [`Sites that produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM_CleanList.txt)
@@ -83,7 +140,26 @@ Listing of blocklist files.
 - 8. [`Sites that used to promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-promote-DRM/Sites-that-used-to-promote-DRM_CleanList.txt)
 - 9. [`{DO NOT BLOCK} Sites that stand against DRM`](/Seanpm2001/DRM-Blocklist/Anti-blocklist/DO-NOT-BLOCK_Sites-that-stand-against-DRM_CleanList.txt)
 - 10. [`Sites that used to stand against DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-stand-against-DRM/Sites-that-used-to-stand-against-DRM_CleanList.txt)
+
+</details>
+
+**Clean lists (new)**
+
+- - _Recommended by_ [:octocat: `Spirillen`](https://github.com/spirillen/) _in_ [`issue #4`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/issues/4/)
+- - _Clean lists are plain text blocklists that don't contain source code comments or other parameters._
+- 1. [`Sites that produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM_CleanList.hosts.txt)
+- 2. [`Sites that use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-DRM/Sites-that-use-DRM_CleanList.hosts.txt)
+- 3. [`Sites that use EME (Light DRM)`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-EME-Light-DRM/Sites-that-use-EME-Light-DRM_CleanList.hosts.txt)
+- 4. [`Sites that used to use EME`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-use-EME-Light-DRM/Sites-that-used-to-use-EME-Light-DRM_CleanList.hosts.txt)
+- 5. [`Sites that used to use DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-use-DRM/Sites-that-used-to-use-DRM_CleanList.hosts.txt)
+- 6. [`Sites that used to produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-produce-DRM/Sites-that-used-to-produce-DRM_CleanList.hosts.txt)
+- 7. [`Sites that promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-promote-DRM/Sites-that-promote-DRM_CleanList.hosts.txt)
+- 8. [`Sites that used to promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-promote-DRM/Sites-that-used-to-promote-DRM_CleanList.hosts.txt)
+- 9. [`{DO NOT BLOCK} Sites that stand against DRM`](/Seanpm2001/DRM-Blocklist/Anti-blocklist/DO-NOT-BLOCK_Sites-that-stand-against-DRM_CleanList.hosts.txt)
+- 10. [`Sites that used to stand against DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-used-to-stand-against-DRM/Sites-that-used-to-stand-against-DRM_CleanList.hosts.txt)
+
 - **uBlock Origin Filter Lists**
+
 - - _Part of a revival on 2026, August 20th_
 - - _Works with uBlock Origin. Do not use on Google Chrome, Google Chromium, Microsoft Edge, Safari, or Opera (or any major Chromium-based browser that implements Manifest V3, you should boycott them)_
 - 1. [`Sites that produce DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM-uBlock-Origin.txt)
@@ -116,6 +192,7 @@ Individual source code was removed from this README on 2024 April 21st. It can n
 - 2024.04.21 - All trailing backslashes removed from Host Files, all lists are now functional. Thanks to [:octocat: `Iam-Py-test`](https://github.com/iam-py-test) for helping out and being the first external contributor to the project.
 - 2024.04.25 - I came back to the project today to find 2 new issues from 3 days ago. I fixed 1 of them (a syntax error) while I am in the process of fixing the second one (regarding Clean Lists) this update introduces clean list variants of all 10 blocklists. Thanks to [:octocat: `Spirillen`](https://github.com/spirillen/) for the bug report, and the suggestions.
 - 2026.08.20 - I came back to this project, and added support for uBlock Origin, making these blocklists functional.
+- 2026.08.22 - The project was modernized, blocklists were updated, and the project was relicensed, now using the UNLICENSE, instead of the GNU General Public License V3.
 
 </details> <!-- End of major updates section !-->
 
@@ -402,7 +479,7 @@ Other projects by me that plan to use this project
 
 <details open><summary><p><b>Click/tap here to expand/collapse the file info section</b></p></summary>
 
-- **File version:** `13 (2026, Thursday, August 20th at 05:13 pm PST)`
+- **File version:** `14 (2026, Saturday, August 22nd at 02:15 pm PST)`
 
 </details> <!-- End of file info section !-->
 
@@ -681,6 +758,29 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 - [x] No other changes in version 13
 
 </details> <!-- End of V13 file history entry !-->
+
+---
+
+## Version 14 (2026, Saturday, August 22nd at 02:15 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 14</b></p></summary>
+
+This version was created by [:octocat: @seanpm2001](https://github.com/seanpm2001/)
+
+> **Note** _A supplemental update for 2026, August 22nd._
+
+> Changes
+
+- [x] Updated the `2026 Update` section
+- [x] Updated the `Major updates` section
+- [x] Updated the `Files/lists` section
+- [x] Added the `"AI" Notice` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 14
+- [x] No other changes in version 14
+
+</details> <!-- End of V14 file history entry !-->
 
 ---
 
