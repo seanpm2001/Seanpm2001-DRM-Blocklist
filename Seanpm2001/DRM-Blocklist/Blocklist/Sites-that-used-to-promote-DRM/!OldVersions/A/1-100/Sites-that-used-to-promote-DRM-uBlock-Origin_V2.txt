@@ -1,0 +1,7 @@
+! Seanpm2001 DRM Blocklist
+! Blocklist: Blocklist: Sites that used to promote DRM
+! Language: Adblock Filter List
+! Links: 0
+! License: UNLICENSE
+! Sites that used to promote DRM
+! Currently empty
