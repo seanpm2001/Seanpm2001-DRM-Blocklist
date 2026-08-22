@@ -1,0 +1,13 @@
+! Seanpm2001 DRM Blocklist
+! Blocklist: Anti-blocklist: Sites that stand against DRM
+! Language: Adblock Filter List
+! Links: 5
+! License: UNLICENSE
+! [DO NOT BLOCK] Sites that stand against DRM
+! Free Software Foundation
+! https://www.gnu.org
+! https://wdefectivebydesign.org
+! https://wfsfe.org
+! https://wwww.fsf.org
+! Electronic Frontiers Foundation
+! https://wwww.eff.org`
