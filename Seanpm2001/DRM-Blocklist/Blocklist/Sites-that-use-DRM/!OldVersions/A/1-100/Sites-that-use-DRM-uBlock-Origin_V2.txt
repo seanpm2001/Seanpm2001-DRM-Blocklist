@@ -1,0 +1,40 @@
+! Seanpm2001 DRM Blocklist
+! Blocklist: Blocklist: Sites that use DRM
+! Language: Adblock Filter List
+! Links: 28
+! License: UNLICENSE
+! Sites that use DRM
+! Streaming services
+https://www.netflix.com
+https://www.disneyplus.com
+https://www.apps.disneyplus.com
+https://help.disneyplus.com
+https://disney.com
+https://ondisneyplus.disney.com
+https://www.hulu.com
+https://help.hulu.com
+https://tv.youtube.com
+https://www.max.com
+https://auth.max.com
+https://www.peacocktv.com
+https://www.espn.com
+https://plus.espn.com
+https://www.hbo.com
+https://movies.youtube.com
+! Music streaming services
+https:/music.youtube.com
+https:/myspace.com
+https:/www.napster.com
+https://www.spotify.com/
+! Video sharing sites
+https:/www.youtube.com
+https:/www.youtubekids.com
+! Wiki sites
+https:/www.fandom.com
+! Digital storefronts
+https:/store.steampowered.com
+https:/steamcommunity.com
+https:/! www.apple.com/itunes
+https:/www.apple.com
+! Other social media
+https:/www.reddit.com
