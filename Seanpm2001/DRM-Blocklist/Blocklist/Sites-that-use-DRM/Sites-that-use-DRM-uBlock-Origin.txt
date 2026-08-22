@@ -1,3 +1,8 @@
+! Seanpm2001 DRM Blocklist
+! Blocklist: Blocklist: Sites that use DRM
+! Language: Adblock Filter List
+! Links: 28
+! License: UNLICENSE
 ! Sites that use DRM
 ! Streaming services
 https://www.netflix.com
