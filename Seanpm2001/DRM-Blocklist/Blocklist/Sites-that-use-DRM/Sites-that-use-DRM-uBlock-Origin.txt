@@ -1,8 +1,10 @@
 ! Seanpm2001 DRM Blocklist
 ! Blocklist: Blocklist: Sites that use DRM
 ! Language: Adblock Filter List
-! Links: 28
+! Links: 31
 ! License: UNLICENSE
+! Version 3 - 2026, August 22nd at 04:34 pm PST
+
 ! Sites that use DRM
 ! Streaming services
 https://www.netflix.com
@@ -21,6 +23,9 @@ https://www.espn.com
 https://plus.espn.com
 https://www.hbo.com
 https://movies.youtube.com
+https://watch.plex.tv/
+https://app.plex.tv/
+https://www.plex.tv/
 ! Music streaming services
 https:/music.youtube.com
 https:/myspace.com
