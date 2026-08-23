@@ -20,6 +20,20 @@
 
 ***
 
+### Reasons to oppose DRM
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Reasons to oppose DRM section</b></p></summary>
+
+Check out:
+
+- [`DefectiveByDesign`](https://www.defectivebydesign.org/)
+- [`FSF Treacherous computing campaign`](https://www.fsf.org/campaigns/drm.html)
+- [`FSF Philosophy on DRM`](https://www.gnu.org/philosophy/opposing-drm.html)
+
+</details> <!-- End of Reasons to oppose DRM section !-->
+
+***
+
 ### 2026 Update
 
 <details open><summary><p><b>Click/tap here to expand/collapse the 2026 Update section</b></p></summary>
@@ -33,23 +47,31 @@ The filters that are of importance are:
 - 3. [`Sites that use EME (Light DRM)`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-EME-Light-DRM/Sites-that-use-EME-Light-DRM-uBlock-Origin.txt)
 - 4. [`Sites that promote DRM`](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-promote-DRM/Sites-that-promote-DRM-uBlock-Origin.txt)
 
-The project was further updated on 2026, August 22nd. Documentation has improved, and the project has been relicensed under the [`UNLICENSE`](/UNLICENSE) Releases are now being made as well, one will be made for each day of change. In the future, releases will be tagged for previous days where the project was updated.
+The project was further updated on 2026, August 22nd. Documentation has improved, and the project has been relicensed under the [`UNLICENSE`](/UNLICENSE) Releases are now being made as well, one will be made for each day of change. Before the 2026, August 23rd update, releases for the 4 old versions have been created.
 
-Releases that need to be tagged
+**Releases**
 
-- 2024, April 20th (as [`V2024.04.20`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.04.20) )
-- 2024, April 21st (as [`V2024.04.21`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.04.21) )
-- 2024, April 25th (as [`V2024.04.25`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.04.25) )
-- 2024, May 17th (as [`V2024.05.17`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.05.17) )
+<details open><summary><p><b>Click/tap here to expand/collapse the releases</b></p></summary>
 
-Releases
-
+- [`V2024.04.20`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.04.20/)
+- [`V2024.04.21`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.04.21/)
+- [`V2024.04.25`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.04.25/)
+- [`V2024.05.17`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2024.05.17/)
 - [`V2026.08.20`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.20/)
 - [`V2026.08.22`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.22/)
+- [`V2026.08.23`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.23/)
+
+</details> <!-- End of releases !-->
+
+**Broken releases**
+
+- [`V2026.04.20`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.04.20/)
 
 I unfortunately feel that I revived this project after all of the hype died. I hope the hype can come back, maybe even stronger.
 
-</details>
+Maintenance of this blocklist type will likely be a little easier than maintenance of an anti-sexual content, or anti-tracker blocklist, as DRM doesn't have as big of an audience. That doesn't mean there aren't going to be tenns of thousands (or even hundreds of thousands) of entries, should it reach a high level of completion. By design, DRM is harder to implement, and in many cases, it also costs money to implement (see: WideVine) on top of buying and maintaining hardware, keeping software going, moderating, and the other maintenance needed of a website, DRM is a hoop many will not go through (and with time, hopefully no-one will do so ever again)
+
+</details> <!-- End of 2026 Update section !-->
 
 ***
 
@@ -193,6 +215,7 @@ Individual source code was removed from this README on 2024 April 21st. It can n
 - 2024.04.25 - I came back to the project today to find 2 new issues from 3 days ago. I fixed 1 of them (a syntax error) while I am in the process of fixing the second one (regarding Clean Lists) this update introduces clean list variants of all 10 blocklists. Thanks to [:octocat: `Spirillen`](https://github.com/spirillen/) for the bug report, and the suggestions.
 - 2026.08.20 - I came back to this project, and added support for uBlock Origin, making these blocklists functional.
 - 2026.08.22 - The project was modernized, blocklists were updated, and the project was relicensed, now using the UNLICENSE, instead of the GNU General Public License V3.
+- 2026.08.23 - New documentation work was done, and 3 more links have been added to the blocklist.
 
 </details> <!-- End of major updates section !-->
 
@@ -258,6 +281,8 @@ I am very new to blocklists. I currently don't have installation instructions, a
 
 **Method 1**
 
+**Difficulty:** `Easy`
+
 - 1. Download uBlock Origin (if you haven't already) [`Firefox addon page`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - 2. Download the filter list
 - 3. Open uBlock Origin
@@ -265,10 +290,12 @@ I am very new to blocklists. I currently don't have installation instructions, a
 - 5. Navigate to `My filters`
 - 6. Click the checkbox "enable custom filters" (if it isn't already checked)
 - 7. Click import and append
-- 8. Select the files
+- 8. Select the blocklist file(s)
 - 9. Reload any webpage on these lists, or open it up anew to test it out
 
 **Method 2**
+
+**Difficulty:** `Easy`
 
 - 1. Download uBlock Origin (if you haven't already) [`Firefox addon page`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - 2. Copy the source code for filter list
@@ -289,38 +316,16 @@ End of installation instructions.
 
 ***
 
-## Credits
-
-<details open><summary><p><b>Click/tap here to expand/collapse the credits section</b></p></summary>
-
-**Not to be confused with Authors.**
-
-- [`CREDITS`](/CREDITS) - Outdated file
-- [`CREDITS.wiki`](/CREDITS.wiki) - Outdated file
-
-</details> <!-- End of Ccredits section !-->
-
-***
-
-## Authors
-
-<details open><summary><p><b>Click/tap here to expand/collapse the authors section</b></p></summary>
-
-**Not to be confused with Credits.**
-
-- [`AUTHORS`](/AUTHORS) - Outdated file
-- [`AUTHORS.md`](/AUTHORS.md) - Outdated file
-
-</details> <!-- End of Authors section !-->
-
-***
-
 ## Qualifications
 
 <details open><summary><p><b>Click/tap here to expand/collapse the qualifications section</b></p></summary>
 
 - Almost any current video/music streaming service in existance
 - Sites that write articles with a pro-DRM stance
+
+<img src="/Graphics/Firefox/DRM/DRM-Warning_FirefoxBanner.png" alt="Firefox DRM DRM warning banner failed to load" title="Firefox warning of DRM content" width="1336" height="47">
+
+If a website has this banner show up at any point, it should be added to the list.
 
 </details> <!-- End of qualifications section !-->
 
@@ -340,9 +345,15 @@ Nobody has asked anything yet, so the only entries right now are filler, based o
 
 You need a browser that either doesn't support DRM, or makes it optional (such as Firefox) simply don't click "allow" when you see a popup asking to enable DRM. Keep your DRM setting disabled in settings.
 
-Unfortunately, this doesn't work for EME (light DRM) this blocklist will be most helpful for that.
+<img src="/Graphics/Firefox/DRM/Firefox_Disable-DRM.png" alt="Firefox DRM disable image failed to load" title="Disable DRM in Mozilla Firefox" width="936" height="679">
 
-The blocklist will not block DRM directly. It will only block sites that use DRM
+In Firefox (as of version 153) go to `about:settings` > `Tabs and browsing` > `Media` and uncheck `Play DRM-controlled content`
+
+Unfortunately, this doesn't work for EME (light DRM) [this blocklist](/Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-EME-Light-DRM/Sites-that-use-EME-Light-DRM-uBlock-Origin.txt) will be most helpful for that.
+
+The blocklist does not block DRM directly. It will only block sites that use DRM
+
+If you are running a browser that does not support DRM, you are already heading in the right direction. This list can still be of use to you, as it will tell you which sites won't work/aren't worth your time.
 
 </details> <!-- End of FAQ: How do I prevent DRM from loading in my browser section !-->
 
@@ -457,7 +468,7 @@ _End of testing section._
 <details open><summary><p><b>Click/tap here to expand/collapse the sources section</b></p></summary>
 
 - TODO:
-- [ ] Make citations regarding why websites were put on the blocklist. (in the documentation repository)
+- [ ] Make citations regarding why websites were put on the blocklist. (in the [:octocat: `documentation repository`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist_Docs/) )
 
 </details> <!-- End of sources section !-->
 
@@ -475,11 +486,65 @@ Other projects by me that plan to use this project
 
 ***
 
+## Repository structure
+
+<details open><summary><p><b>Click/tap here to expand/collapse the credits section</b></p></summary>
+
+This project follows my [`source code style guide`](https://github.com/seanpm2001/SourceCode_StyleGuide/)
+
+File structure: [`ROOTFILES.base`](/ROOTFILES.base)
+
+</details> <!-- End of Repository structure section !-->
+
+***
+
+## Legal
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Legal section</b></p></summary>
+
+This project was orginally licensed under the GNU General Public License V3. In mid 2026, I realized that Copyright just doesn't work with my ethics system, and that there was no way to legally reverse engineer Copyleft to make it separate and distinct from Copyright. So I am going with the public domain, and I have chosen [`the Unlicense`](/UNLICENSE)
+
+This gives the project extra benefits. It removes legal constraints, and makes the project even more open. Unfortunately it also cuts off developers who work at companies with the terrible practice of forbidding their employees from working with public domain projects (such as Google) as much as I dislike Google, some of their employees might have been a knowledgeable source on which websites have DRM, and could have helped out with this project. I am sure as a community, this project can still thrive.
+
+While this project is public domain, I still very strongly believe attribution is needed. Any commits will receive proper attribution, regardless of the beliefs, or actions of the committer.
+
+As far as I am aware, blocklists do not "infringe on the Copyright" of streaming services, and DRM-based platforms, although I am sure someday the RIAA and MPAA will find a way to say they do (if people can continue to tolerate them to that point) there are no known legal risks to using this software.
+
+</details> <!-- End of Legal section !-->
+
+***
+
+## Credits
+
+<details open><summary><p><b>Click/tap here to expand/collapse the credits section</b></p></summary>
+
+**Not to be confused with Authors.**
+
+- [`CREDITS`](/CREDITS) - Outdated file
+- [`CREDITS.wiki`](/CREDITS.wiki) - Outdated file
+
+</details> <!-- End of Ccredits section !-->
+
+***
+
+## Authors
+
+<details open><summary><p><b>Click/tap here to expand/collapse the authors section</b></p></summary>
+
+**Not to be confused with Credits.**
+
+- [`AUTHORS`](/AUTHORS) - Outdated file
+- [`AUTHORS.md`](/AUTHORS.md) - Outdated file
+
+</details> <!-- End of Authors section !-->
+
+***
+
 # File info
 
 <details open><summary><p><b>Click/tap here to expand/collapse the file info section</b></p></summary>
 
-- **File version:** `14 (2026, Saturday, August 22nd at 02:15 pm PST)`
+- **File version:** `15 (2026, Sunday, August 23rd at 02:45 pm PST)`
 
 </details> <!-- End of file info section !-->
 
@@ -781,6 +846,34 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 - [x] No other changes in version 14
 
 </details> <!-- End of V14 file history entry !-->
+
+---
+
+## Version 15 (2026, Sunday, August 23rd at 02:45 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 15</b></p></summary>
+
+This version was created by [:octocat: @seanpm2001](https://github.com/seanpm2001/)
+
+> **Note** _A supplemental update for 2026, August 23rd._
+
+> Changes
+
+- [x] Added the `Reasons to oppose DRM` section
+- [x] Updated the `uBlock Origin` section
+- [x] Updated the `2026 Update` section
+- [x] Updated the `Major updates` section
+- [x] Updated the `Sources` section
+- [x] Updated the `FAQ: How do I prevent DRM from loading in my browser` section
+- [x] Moved the `Credits` and `Authors` sections further down
+- [x] Added the `Repository structure` section
+- [x] Added the `Legal` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 15
+- [x] No other changes in version 15
+
+</details> <!-- End of V15 file history entry !-->
 
 ---
 
