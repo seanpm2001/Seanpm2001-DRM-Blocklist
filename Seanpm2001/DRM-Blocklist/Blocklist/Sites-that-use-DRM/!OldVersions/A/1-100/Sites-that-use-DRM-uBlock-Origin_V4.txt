@@ -1,0 +1,49 @@
+! Seanpm2001 DRM Blocklist
+! Blocklist: Blocklist: Sites that use DRM
+! Language: Adblock Filter List
+! Links: 33
+! License: UNLICENSE
+! Version 4 - 2026, Monday, August 23rd at 11:46 pm PST
+! Authors: @seanp2001
+! List is now in A-Z order (the first letter preceding the www. or the https:// (if there is no www))
+
+! Sites that use DRM
+! Video/Movie/TV Streaming services
+https://app.plex.tv
+https://www.apps.disneyplus.com
+https://auth.max.com
+https://www.britbox.com
+https://disney.com
+https://www.disneyplus.com
+https://www.espn.com
+https://www.hbo.com
+https://help.disneyplus.com
+https://help.hulu.com
+https://www.hulu.com
+https://www.max.com
+https://movies.youtube.com
+https://www.netflix.com
+https://ondisneyplus.disney.com
+https://www.peacocktv.com
+https://www.plex.tv
+https://plus.espn.com
+https://pluto.tv
+https://tv.youtube.com
+https://watch.plex.tv
+! Music streaming services
+https:/music.youtube.com
+https:/myspace.com
+https:/www.napster.com
+https://www.spotify.com/
+! Video sharing sites
+https:/www.youtube.com
+https:/www.youtubekids.com
+! Wiki sites
+https:/www.fandom.com
+! Digital storefronts
+https:/www.apple.com
+https:/www.apple.com/itunes
+https:/steamcommunity.com
+https:/store.steampowered.com
+! Other social media
+https:/www.reddit.com
