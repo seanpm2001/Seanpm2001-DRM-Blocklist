@@ -1,9 +1,9 @@
 ! Seanpm2001 DRM Blocklist
 ! Blocklist: Blocklist: Sites that use DRM
 ! Language: Adblock Filter List
-! Links: 33
+! Links: 39 to 40 (1 link is commented out)
 ! License: UNLICENSE
-! Version 4 - 2026, Monday, August 23rd at 11:46 pm PST
+! Version 5 - 2026, Wednesday, August 26th at 04:14 pm PST
 ! Authors: @seanp2001
 ! List is now in A-Z order (the first letter preceding the www. or the https:// (if there is no www))
 
@@ -13,37 +13,59 @@ https://app.plex.tv
 https://www.apps.disneyplus.com
 https://auth.max.com
 https://www.britbox.com
+https://www.crunchyroll.com
 https://disney.com
 https://www.disneyplus.com
 https://www.espn.com
 https://www.hbo.com
 https://help.disneyplus.com
 https://help.hulu.com
+https://www.hidive.com
 https://www.hulu.com
+https://link.tubi.tv
 https://www.max.com
 https://movies.youtube.com
 https://www.netflix.com
+https://news.hidive.com/
 https://ondisneyplus.disney.com
 https://www.peacocktv.com
 https://www.plex.tv
 https://plus.espn.com
 https://pluto.tv
+https://sso.crunchyroll.com
 https://tv.youtube.com
+https://tubitv.com
 https://watch.plex.tv
+https://welcome.hidive.com/
 ! Music streaming services
-https:/music.youtube.com
-https:/myspace.com
+https://music.youtube.com
+https://myspace.com
 https:/www.napster.com
-https://www.spotify.com/
+https://www.spotify.com
 ! Video sharing sites
-https:/www.youtube.com
-https:/www.youtubekids.com
+https://www.youtube.com
+https://www.youtubekids.com
 ! Wiki sites
-https:/www.fandom.com
+https://www.fandom.com
 ! Digital storefronts
-https:/www.apple.com
-https:/www.apple.com/itunes
-https:/steamcommunity.com
-https:/store.steampowered.com
+https://www.apple.com
+https://www.apple.com/itunes
+https://steamcommunity.com
+https://store.steampowered.com
+! Archive sites
+! How would I go about blocking ONLY the `Stream-only` Internet Archive pages?
+! The Internet Archive is great, but unfortunately, a growing number of entries on the site contain DRM. They usually go by the category `Stream-only`
+! Blocking the links individually would be too hard, is there some way the `stream-only` entries can be blocked.
+! https://archive.org
 ! Other social media
-https:/www.reddit.com
+https://www.reddit.com
+
+DRM sites to block next
+crunchyroll
+hidive
+tubi
+
+!Notes
+! needs research
+! anime-planet
+! JustWatch
