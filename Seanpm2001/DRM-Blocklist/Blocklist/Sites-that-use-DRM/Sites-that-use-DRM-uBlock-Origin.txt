@@ -1,9 +1,10 @@
 ! Seanpm2001 DRM Blocklist
 ! Blocklist: Blocklist: Sites that use DRM
+! /Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-DRM/Sites-that-use-DRM-uBlock-Origin.txt
 ! Language: Adblock Filter List
 ! Links: 39 to 40 (1 link is commented out)
 ! License: UNLICENSE
-! Version 5 - 2026, Wednesday, August 26th at 04:14 pm PST
+! Version 6 - 2026, Wednesday, August 26th at 04:17 pm PST
 ! Authors: @seanp2001
 ! List is now in A-Z order (the first letter preceding the www. or the https:// (if there is no www))
 
@@ -59,11 +60,6 @@ https://store.steampowered.com
 ! https://archive.org
 ! Other social media
 https://www.reddit.com
-
-DRM sites to block next
-crunchyroll
-hidive
-tubi
 
 !Notes
 ! needs research
