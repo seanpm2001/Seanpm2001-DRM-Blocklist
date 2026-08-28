@@ -1,8 +1,14 @@
 ! Seanpm2001 DRM Blocklist
 ! Blocklist: Blocklist: Sites that produce DRM
+! /Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM-uBlock-Origin.txt
 ! Language: Adblock Filter List
-! Links: 5
+! Links: 9
 ! License: UNLICENSE
+! Version 3 - 2026, Thursday, August 27th at 06:56 pm PST
+! Authors: @seanp2001
+! List is now in A-Z order (the first letter preceding the www. or the https:// (if there is no www))
+! Syntax mode: FORTRAN-95/Adblock Filter List (for best syntax highlighting)
+
 ! Sites that produce DRM
 ! WideVine
 https://widevine.com
@@ -14,3 +20,9 @@ https://www.apple.com
 https://store.steampowered.com
 ! Denuvo
 https://irdeto.com
+! JWPlayer
+https://dashboard.jwplayer.com/
+! BBC
+https://player.bbc.com/
+https://www.bbc.co.uk/iplayer
+https://node1.bbcimg.co.uk/iplayer/
