@@ -2,9 +2,9 @@
 ! Blocklist: Blocklist: Sites that use DRM
 ! /Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-use-DRM/Sites-that-use-DRM-uBlock-Origin.txt
 ! Language: Adblock Filter List
-! Links: 54 to 56 (1 link is commented out, and 1 link is dead)
+! Links: 102 to 104 (1 link is commented out, and 1 link is dead)
 ! License: UNLICENSE
-! Version 7 - 2026, Thursday, August 27th at 06:54 pm PST
+! Version 8 - 2026, Friday, August 28th at 05:01 pm PST
 ! Authors: @seanp2001
 ! List is now in A-Z order (the first letter preceding the www. or the https:// (if there is no www))
 ! Syntax mode: FORTRAN-95/Adblock Filter List (for best syntax highlighting)
@@ -17,6 +17,7 @@ https://athome.fandango.com/content/account/login?type=sign_in
 https://auth.max.com
 https://www.britbox.com
 https://www.crunchyroll.com
+https://customer.xfinity.com/
 https://disney.com
 https://www.disneyplus.com
 https://www.espn.com
@@ -28,6 +29,7 @@ https://help.hulu.com
 https://www.hidive.com
 https://www.hulu.com
 https://link.tubi.tv
+https://login.xfinity.com/
 https://www.max.com
 https://movies.youtube.com
 https://my.roku.com/
@@ -35,6 +37,7 @@ https://my.vudu.com/castReceiver/index.html?launch-source=app-icon
 https://www.netflix.com
 https://news.hidive.com/
 https://ondisneyplus.disney.com
+https://www.paramountplus.com/
 https://www.peacocktv.com
 https://www.plex.tv
 https://plus.espn.com
@@ -48,12 +51,43 @@ https://watch.plex.tv
 https://watch.spectrum.net/livetv
 https://welcome.hidive.com/
 https://www-v6.vudu.com/
+http://xfinity.com/
+! Video live streaming
+http://app.twitch.tv/
+https://go.twitch.tv/twitch
+https://www.twitch.tv/
 ! Music streaming services
-https://music.youtube.com
-https://myspace.com
-https:/www.napster.com
+https://account.bandcamp.com/
+https://bandcamp.com/
+https://bandcampforartists.bandcamp.com/
+https://care.siriusxm.com/
+https://companybeta.siriusxm.com/
+https://desktop.bandcamp.com/
+https://home.bandcamp.com/
+https://www.iheart.com/
+https://www.iheartmedia.com/
+https://www.last.fm/
+https://music.amazon.com.au/
+https://music.amazon.ca/
+https://music.amazon.co.uk/
+https://music.apple.com/us/
+https://music.youtube.com/
+https://myspace.com/
+https:/www.napster.com/
+https://open.spotify.com/
+https://pandora.app.link/
+https://www.pandora.com/
+https://player.siriusxm.com/
+https://portal.siriusxm.com/
 https://www.roku.com/
-https://www.spotify.com
+https://shop.siriusxm.ca/
+http://www.sirius.com/
+https://www.siriusxm.ca/
+https://www.siriusxm.com/
+https://www.spotify.com/
+https://start.bandcamp.com/
+https://tidal.com/
+https://tunein.com/
 ! Video sharing sites
 https://www.youtube.com
 https://www.youtubekids.com
@@ -62,8 +96,17 @@ https://www.fandom.com
 ! Digital storefronts
 https://www.apple.com
 https://www.apple.com/itunes
+https://ec.nintendo.com/
+https://www.playstation.com/
 https://steamcommunity.com
+https://store.nintendo.com/
 https://store.steampowered.com
+! Video game DRM
+https://my.nintendo.com/
+https://play.nintendo.com/
+https://play.xbox.com/
+https://sega.dsidrm.com/
+https://www.xbox.com/
 ! Archive sites
 ! How would I go about blocking ONLY the `Stream-only` Internet Archive pages?
 ! The Internet Archive is great, but unfortunately, a growing number of entries on the site contain DRM. They usually go by the category `Stream-only`
@@ -71,10 +114,20 @@ https://store.steampowered.com
 ! https://archive.org
 ! Other social media
 https://www.reddit.com
+https://www.twitter.com
+https://www.x.com
 ! Activation servers
 https://activate.ea.com
 https://activate.microsoft.com
 https://www.ea.com/redeem
+! DRM Checking
+https://drmsense.netlify.app/
+! Book sites
+https://www.barnesandnoble.com/
+https://barnessnoble.com/
+https://getnook.net/
+https://nook.barnesandnoble.com/
+http://www.nook.com/
 ! Dead links (WE WON!)
 http://www.simpsonsworld.com/
 
@@ -83,3 +136,4 @@ http://www.simpsonsworld.com/
 ! anime-planet
 ! JustWatch
 ! Currently, almost any TV channel with a streaming equivalent will be eligable to be listed here.
+! EOF
