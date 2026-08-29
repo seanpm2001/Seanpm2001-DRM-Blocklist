@@ -2,9 +2,9 @@
 ! Blocklist: Blocklist: Sites that produce DRM
 ! /Seanpm2001/DRM-Blocklist/Blocklist/Sites-that-produce-DRM/Sites-that-produce-DRM-uBlock-Origin.txt
 ! Language: Adblock Filter List
-! Links: 9
+! Links: 17
 ! License: UNLICENSE
-! Version 3 - 2026, Thursday, August 27th at 06:56 pm PST
+! Version 4 - 2026, Friday, August 28th at 05:04 pm PST
 ! Authors: @seanp2001
 ! List is now in A-Z order (the first letter preceding the www. or the https:// (if there is no www))
 ! Syntax mode: FORTRAN-95/Adblock Filter List (for best syntax highlighting)
@@ -26,3 +26,16 @@ https://dashboard.jwplayer.com/
 https://player.bbc.com/
 https://www.bbc.co.uk/iplayer
 https://node1.bbcimg.co.uk/iplayer/
+! Audio production sites
+https://optiview.dolby.com/
+https://ott.dolby.com/
+https://kb.dolby.com/
+! Hardware DRM
+https://ap01.manage.samsungknox.com/
+https://central.samsungknox.com/
+https://signin.samsungknox.com/
+https://www.samsungknox.com/
+https://www2.samsungknox.com/
+
+! Notes
+! EOF
