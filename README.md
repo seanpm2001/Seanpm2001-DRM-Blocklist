@@ -60,6 +60,10 @@ The project was further updated on 2026, August 22nd. Documentation has improved
 - [`V2026.08.20`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.20/)
 - [`V2026.08.22`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.22/)
 - [`V2026.08.23`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.23/)
+- [`V2026.08.24`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.24/)
+- [`V2026.08.26`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.26/)
+- [`V2026.08.27`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.27/)
+- [`V2026.08.28`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/releases/tag/V2026.08.28/)
 
 </details> <!-- End of releases !-->
 
@@ -84,6 +88,38 @@ This project does not accept contributions made using any "AI" assistant. Any pu
 **This project was proudly made entirely without the assistance of “AI”**
 
 </details> <!-- End of "AI" Notice section !-->
+
+***
+
+## Blocklist statistics
+
+<details open><summary><p><b>Click/tap here to expand/collapse the blocklist stats section</b></p></summary>
+
+Statistics for the DRM blocklists.
+
+---
+
+<details open><summary><p><b>Click/tap here to expand/collapse the blocklist stats table section</b></p></summary>
+
+| List | Working links | Hidden links (commented out) | Dead links | Total links | Complete total | Last checked |
+|------|---------------|------------------------------|------------|-------------|----------------|--------------|
+| DRM-Blocklist/Anti-blocklist/Sites-that-stand-against-DRM | 5 | 0 | 0 | 5 | 5 | 2026, August 28th |
+| DRM-Blocklist/Blocklist/Sites-that-produce-DRM | 17 | 0 | 0 | 17 | 22 | 2026, August 28th |
+| DRM-Blocklist/Blocklist/Sites-that-promote-DRM | 5 | 0 | 0 | 5 | 27 | 2026, August 28th |
+| DRM-Blocklist/Blocklist/Sites-that-use-DRM | 102 | 1 | 1 | 104 | 131 | 2026, August 28th |
+| DRM-Blocklist/Blocklist/Sites-that-used-to-produce-DRM | 0 | 0 | 0 | 0 | 131 | 2026, August 28th |
+| DRM-Blocklist/Blocklist/Sites-that-used-to-promote-DRM | 0 | 0 | 0 | 0 | 131 | 2026, August 28th |
+| DRM-Blocklist/Blocklist/Sites-that-used-to-stand-against-DRM | 1 | 0 | 0 | 0 | 132 | 2026, August 28th |
+| DRM-Blocklist/Blocklist/Sites-that-used-to-use-DRM | 0 | 0 | 0 | 0 | 132 | 2026, August 28th |
+| DRM-Blocklist/Blocklist/Sites-that-used-to-use-EME-Light-DRM | 0 | 0 | 0 | 0 | 132 | 2026, August 28th |
+| DRM-Blocklist/Blocklist/Sites-that-use-EME-Light-DRM | 10 | 0 | 0 | 10 | 142 | 2026, August 28th |
+| DRM-Blocklist/All blocklists | 140 | 1 | 1 | 142 | 142 | 2026, August 28th |
+
+</details> <!-- End of blocklist table !-->
+
+It is still a very small blocklist, and needs lots of work. As of 2026, August 28th, the grand total is 142 links.
+
+</details> <!-- End of Blocklist statistics section !-->
 
 ***
 
@@ -216,6 +252,10 @@ Individual source code was removed from this README on 2024 April 21st. It can n
 - 2026.08.20 - I came back to this project, and added support for uBlock Origin, making these blocklists functional.
 - 2026.08.22 - The project was modernized, blocklists were updated, and the project was relicensed, now using the UNLICENSE, instead of the GNU General Public License V3.
 - 2026.08.23 - New documentation work was done, and 3 more links have been added to the blocklist.
+- 2026.08.24 - New documentation work was done, more links were added to the blocklist.
+- 2026.08.26 - New documentation work was done, more links were added to the blocklist.
+- 2026.08.27 - New documentation work was done, a lot of links were added to the blocklist.
+- 2026.08.28 - New documentation work was done, a record amount of links were added to the blocklist.
 
 </details> <!-- End of major updates section !-->
 
@@ -498,6 +538,20 @@ File structure: [`ROOTFILES.base`](/ROOTFILES.base)
 
 ***
 
+## Development
+
+<details open><summary><p><b>Click/tap here to expand/collapse the development section</b></p></summary>
+
+I am looking for maintainers, and contributors. This project was not meant to be done singlehandedly.
+
+To get started, head over to [:octocat: `Seanpm2001 DRM Blocklist Docs`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist_Docs/tree/Seanpm2001-DRM-Blocklist_Docs_Main-dev/Docs/Justifications/WorldWideWeb/Templates/General/) and fill out a justification form using the provided template. Note that every single field doesn't have to be filled out for it to be accepted. This database helps keep track of sites, and justifies why they are on the blocklist, and to what blocklist they belong on. Sites change over time, links can change, and sites can stop functioning entirely. It is basically a DRM Wiki. It saves others the trouble of having to go through the negativity of the subject.
+
+I am going to be taking a break from this project after todays (2026, August 28th) update, but I will still accept pull requests, and read discussions, and issues.
+
+</details> <!-- End of development section !-->
+
+***
+
 ## Legal
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Legal section</b></p></summary>
@@ -544,7 +598,7 @@ As far as I am aware, blocklists do not "infringe on the Copyright" of streaming
 
 <details open><summary><p><b>Click/tap here to expand/collapse the file info section</b></p></summary>
 
-- **File version:** `15 (2026, Sunday, August 23rd at 02:45 pm PST)`
+- **File version:** `16 (2026, Friday, August 28th at 05:12 pm PST)`
 
 </details> <!-- End of file info section !-->
 
@@ -874,6 +928,30 @@ This version was created by [:octocat: @seanpm2001](https://github.com/seanpm200
 - [x] No other changes in version 15
 
 </details> <!-- End of V15 file history entry !-->
+
+---
+
+## Version 16 (2026, Sunday, August 28th at 05:12 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 16</b></p></summary>
+
+This version was created by [:octocat: @seanpm2001](https://github.com/seanpm2001/)
+
+> **Note** _A supplemental update for 2026, August 28th, forgot to update this README for the past few releases._
+
+> Changes
+
+- [x] Added the `Blocklist statistics` section
+- [x] Added the `Development` section
+- [x] Updated the `uBlock Origin` section
+- [x] Updated the `2026 Update` section
+- [x] Updated the `Major updates` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 16
+- [x] No other changes in version 16
+
+</details> <!-- End of V16 file history entry !-->
 
 ---
 
